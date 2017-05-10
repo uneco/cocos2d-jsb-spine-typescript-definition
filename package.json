@@ -1,0 +1,13 @@
+{
+  "name": "cocos2d-jsb-spine-typescript-definition",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cocos2d-js TypeScript ambient declarations for Spine",
+  "scripts": {
+    "lint": "tslint spine.d.ts"
+  },
+  "devDependencies": {
+    "tslint": "^5.1.0",
+    "typescript": "^2.2.2"
+  }
+}
